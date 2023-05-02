@@ -1,13 +1,11 @@
-import projects.CalculateVatAmount;
-import projects.GradePointAverageCalculation;
-import projects.Taxi;
-import projects.Triangle;
+import projects.*;
 
 public class Main {
     public static void main(String[] args) {
         //GradePointAverageCalculation.calculate();
         //CalculateVatAmount.calculateVAT();
         //Triangle.makeTriangleOperations();
-        Taxi.calculateTaximeter();
+        //Taxi.calculateTaximeter();
+        Circle.findCircleChores();
     }
 }
