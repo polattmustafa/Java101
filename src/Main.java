@@ -6,6 +6,7 @@ public class Main {
         //CalculateVatAmount.calculateVAT();
         //Triangle.makeTriangleOperations();
         //Taxi.calculateTaximeter();
-        Circle.findCircleChores();
+        //Circle.findCircleChores();
+        HumanBody.calculateBodyMassIndex();
     }
 }
