@@ -7,6 +7,7 @@ public class Main {
         //Triangle.makeTriangleOperations();
         //Taxi.calculateTaximeter();
         //Circle.findCircleChores();
-        HumanBody.calculateBodyMassIndex();
+        //HumanBody.calculateBodyMassIndex();
+        Fruits.calculateFruitAmount();
     }
 }
