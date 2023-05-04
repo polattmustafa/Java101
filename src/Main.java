@@ -9,6 +9,8 @@ public class Main {
         //Circle.findCircleChores();
         //HumanBody.calculateBodyMassIndex();
         //Fruits.calculateFruitAmount();
-        Calculator.calculate();
+        //Calculator.calculate();
+        //Password.encrypt();
+
     }
 }
