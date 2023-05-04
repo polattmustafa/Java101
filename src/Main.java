@@ -8,6 +8,7 @@ public class Main {
         //Taxi.calculateTaximeter();
         //Circle.findCircleChores();
         //HumanBody.calculateBodyMassIndex();
-        Fruits.calculateFruitAmount();
+        //Fruits.calculateFruitAmount();
+        Calculator.calculate();
     }
 }
