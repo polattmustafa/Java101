@@ -11,7 +11,8 @@ public class Main {
         //Fruits.calculateFruitAmount();
         //Calculator.calculate();
         //Password.encrypt();
-        AirTemperatureActivity.suggestActivity();
+        //AirTemperatureActivity.suggestActivity();
+        FromBigToSmall.sort();
 
     }
 }
