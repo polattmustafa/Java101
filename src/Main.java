@@ -12,7 +12,8 @@ public class Main {
         //Calculator.calculate();
         //Password.encrypt();
         //AirTemperatureActivity.suggestActivity();
-        FromBigToSmall.sort();
+        //FromBigToSmall.sort();
+        Horoscope.guessHoroscope();
 
     }
 }
