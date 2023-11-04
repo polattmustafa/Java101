@@ -13,7 +13,8 @@ public class Main {
         //Password.encrypt();
         //AirTemperatureActivity.suggestActivity();
         //FromBigToSmall.sort();
-        Horoscope.guessHoroscope();
+        //Horoscope.guessHoroscope();
+        PlaneTravel.calculateBalance();
 
     }
 }
