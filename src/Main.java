@@ -14,7 +14,7 @@ public class Main {
         //AirTemperatureActivity.suggestActivity();
         //FromBigToSmall.sort();
         //Horoscope.guessHoroscope();
-        PlaneTravel.calculateBalance();
-
+        //PlaneTravel.calculateBalance();
+        ChineseZodiac.calculateZodiac();
     }
 }
