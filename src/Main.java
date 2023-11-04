@@ -15,6 +15,7 @@ public class Main {
         //FromBigToSmall.sort();
         //Horoscope.guessHoroscope();
         //PlaneTravel.calculateBalance();
-        ChineseZodiac.calculateZodiac();
+        //ChineseZodiac.calculateZodiac();
+        LeapYear.calculateLeapYear();
     }
 }
