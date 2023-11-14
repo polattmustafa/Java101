@@ -1,4 +1,5 @@
 import projects.*;
+import projects.loops.EvenNumbers;
 
 public class Main {
     public static void main(String[] args) {
@@ -16,6 +17,7 @@ public class Main {
         //Horoscope.guessHoroscope();
         //PlaneTravel.calculateBalance();
         //ChineseZodiac.calculateZodiac();
-        LeapYear.calculateLeapYear();
+        //LeapYear.calculateLeapYear();
+        EvenNumbers.getEvenNumbers();
     }
 }
