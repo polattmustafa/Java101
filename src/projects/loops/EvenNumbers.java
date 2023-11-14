@@ -17,4 +17,19 @@ public class EvenNumbers {
 
     }
 
+    public static void additionEvenNumbers() {
+        Scanner scanner = new Scanner(System.in);
+        int number = 0;
+        while (true) {
+            System.out.print("Enter even numbers you want to addition. Enter odd number if you exit: ");
+            int inputNumber = scanner.nextInt();
+            if (inputNumber % 2 == 0) {
+                number += inputNumber;
+            } else {
+                System.out.print("Addition of your numbers = " + number);
+                return;
+            }
+        }
+    }
+
 }

@@ -18,6 +18,7 @@ public class Main {
         //PlaneTravel.calculateBalance();
         //ChineseZodiac.calculateZodiac();
         //LeapYear.calculateLeapYear();
-        EvenNumbers.getEvenNumbers();
+        //EvenNumbers.getEvenNumbers();
+        EvenNumbers.additionEvenNumbers();
     }
 }
