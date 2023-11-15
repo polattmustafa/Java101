@@ -1,4 +1,5 @@
 import projects.*;
+import projects.loops.Combination;
 import projects.loops.EvenNumbers;
 import projects.loops.Exponentiation;
 
@@ -21,6 +22,7 @@ public class Main {
         //LeapYear.calculateLeapYear();
         //EvenNumbers.getEvenNumbers();
         //EvenNumbers.additionEvenNumbers();
-        Exponentiation.fourAndFiveExponent();
+        //Exponentiation.fourAndFiveExponent();
+        Combination.calculate();
     }
 }
