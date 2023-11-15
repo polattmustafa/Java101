@@ -1,5 +1,6 @@
 import projects.*;
 import projects.loops.EvenNumbers;
+import projects.loops.Exponentiation;
 
 public class Main {
     public static void main(String[] args) {
@@ -19,6 +20,7 @@ public class Main {
         //ChineseZodiac.calculateZodiac();
         //LeapYear.calculateLeapYear();
         //EvenNumbers.getEvenNumbers();
-        EvenNumbers.additionEvenNumbers();
+        //EvenNumbers.additionEvenNumbers();
+        Exponentiation.fourAndFiveExponent();
     }
 }
