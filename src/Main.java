@@ -1,6 +1,7 @@
 import projects.*;
 import projects.loops.Combination;
 import projects.loops.EvenNumbers;
+import projects.loops.ExponentNumbers;
 import projects.loops.Exponentiation;
 
 public class Main {
@@ -23,6 +24,7 @@ public class Main {
         //EvenNumbers.getEvenNumbers();
         //EvenNumbers.additionEvenNumbers();
         //Exponentiation.fourAndFiveExponent();
-        Combination.calculate();
+        //Combination.calculate();
+        ExponentNumbers.calculate();
     }
 }
