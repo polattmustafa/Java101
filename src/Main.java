@@ -1,8 +1,5 @@
 import projects.*;
-import projects.loops.Combination;
-import projects.loops.EvenNumbers;
-import projects.loops.ExponentNumbers;
-import projects.loops.Exponentiation;
+import projects.loops.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -25,6 +22,8 @@ public class Main {
         //EvenNumbers.additionEvenNumbers();
         //Exponentiation.fourAndFiveExponent();
         //Combination.calculate();
-        ExponentNumbers.calculate();
+        //ExponentNumbers.calculate();
+        NumberOfDigits.calculateSumOfDigits();
+
     }
 }
