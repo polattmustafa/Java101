@@ -23,7 +23,8 @@ public class Main {
         //Exponentiation.fourAndFiveExponent();
         //Combination.calculate();
         //ExponentNumbers.calculate();
-        NumberOfDigits.calculateSumOfDigits();
+        //NumberOfDigits.calculateSumOfDigits();
+        Harmonic.calculate();
 
     }
 }
