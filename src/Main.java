@@ -24,7 +24,8 @@ public class Main {
         //Combination.calculate();
         //ExponentNumbers.calculate();
         //NumberOfDigits.calculateSumOfDigits();
-        Harmonic.calculate();
+        //Harmonic.calculate();
+        ATM.manage();
 
     }
 }
