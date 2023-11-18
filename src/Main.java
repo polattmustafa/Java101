@@ -25,7 +25,8 @@ public class Main {
         //ExponentNumbers.calculate();
         //NumberOfDigits.calculateSumOfDigits();
         //Harmonic.calculate();
-        ATM.manage();
+        //ATM.manage();
+        EbobEkok.calculate();
 
     }
 }
